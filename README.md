@@ -1,9 +1,9 @@
 # Hi there 👋
 
 <img align="left" title="BannerBomb's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=BannerBomb&theme=dracula" />
-<img align="left" title="BannerBomb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BannerBomb&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
+<img align="left" title="BannerBomb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BannerBomb&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" /><br /><br /><br /><br /><br /><br /><br />
 
-<br><br>
+
 <h1>Languages:</h1>
 
 <h2>Knows:</h2>
@@ -19,4 +19,4 @@
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/cs.png"></code>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/python.png"></code>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/typescript.png"></code>
-<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/kotlin.png"></code>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/kotlin.png"></code><br />
