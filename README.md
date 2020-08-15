@@ -11,6 +11,7 @@
 
 <h2>Knows some:</h2>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/java.png"></code>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/php.png"></code>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/lua.svg"></code>
 
 <h2>Knows very little:</h2>
