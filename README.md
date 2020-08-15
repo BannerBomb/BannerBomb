@@ -19,4 +19,4 @@
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/cs.png"></code>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/python.png"></code>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/typescript.svg"></code>
-<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/kotlin.png"></code><br />
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/kotlin.png"></code>
