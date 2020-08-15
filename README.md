@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**BannerBomb/BannerBomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" title="BannerBomb's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=BannerBomb&theme=dracula" />
+<img align="left" title="BannerBomb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BannerBomb&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
 
-Here are some ideas to get you started:
+<h1>Languages:</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Knows:</h2>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/nodejs.svg"></code>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/javascript.svg"></code>
+
+<h2>Knows some:</h2>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/java.png"></code>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/lua.png"></code>
+
+<h2>Knows very little:</h2>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/cpp.png"></code>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/cs.png"></code>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/python.png"></code>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/typescript.png"></code>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/kotlin.png"></code>
