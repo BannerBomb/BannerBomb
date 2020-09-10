@@ -32,16 +32,14 @@
 		<tbody class="rich-diff-level-one">
 			<tr>
 				<td>
-					<a href="https://wakatime.com/share/@BannerBomb/8221d194-63e2-4fb3-8109-bb19e5556ddb.svg" rel="nofollow">
-						<img src="https://wakatime.com/share/@BannerBomb/8221d194-63e2-4fb3-8109-bb19e5556ddb.svg" alt="" data-canonical-src="https://wakatime.com/share/@BannerBomb/8221d194-63e2-4fb3-8109-bb19e5556ddb.svg" style="max-width:100%;">
-					</a>
+					<img src="https://wakatime.com/share/@BannerBomb/8221d194-63e2-4fb3-8109-bb19e5556ddb.svg" alt="" data-canonical-src="https://wakatime.com/share/@BannerBomb/8221d194-63e2-4fb3-8109-bb19e5556ddb.svg" style="max-width:100%;">
 				</td>
 				<td align="center">
-					<a href="https://wakatime.com/share/@BannerBomb/36861c3a-13d7-4cc2-a2bb-5bfdf8f14d77.svg" rel="nofollow">
-						<img src="https://wakatime.com/share/@BannerBomb/36861c3a-13d7-4cc2-a2bb-5bfdf8f14d77.svg" alt="" data-canonical-src="https://wakatime.com/share/@BannerBomb/36861c3a-13d7-4cc2-a2bb-5bfdf8f14d77.svg" style="max-width:100%;">
-					</a>
+					<img src="https://wakatime.com/share/@BannerBomb/36861c3a-13d7-4cc2-a2bb-5bfdf8f14d77.svg" alt="" data-canonical-src="https://wakatime.com/share/@BannerBomb/36861c3a-13d7-4cc2-a2bb-5bfdf8f14d77.svg" style="max-width:100%;">
 				</td>
 			</tr>
 		</tbody>
 	</table>
 </ins>
+
+<img src="https://github-profile-trophy.vercel.app/?username=BannerBomb&row=1&column=8" alt="Trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=LumaKernel&amp;row=1&amp;column=8" style="max-width:100%;">
