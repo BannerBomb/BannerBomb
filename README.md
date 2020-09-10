@@ -20,3 +20,28 @@
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/python.png"></code>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/typescript.svg"></code>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/kotlin.png"></code>
+
+<ins>
+	<table class="rich-diff-level-zero">
+		<thead class="rich-diff-level-one">
+			<tr>
+				<th>&lt;------------------------------------------------------------------&gt;</th>
+				<th align="center">&lt;------------------------------------------------------------------&gt;</th>
+			</tr>
+		</thead>
+		<tbody class="rich-diff-level-one">
+			<tr>
+				<td>
+					<a href="https://wakatime.com/share/@BannerBomb/8221d194-63e2-4fb3-8109-bb19e5556ddb.svg" rel="nofollow">
+						<img src="https://wakatime.com/share/@BannerBomb/8221d194-63e2-4fb3-8109-bb19e5556ddb.svg" alt="" data-canonical-src="https://wakatime.com/share/@BannerBomb/8221d194-63e2-4fb3-8109-bb19e5556ddb.svg" style="max-width:100%;">
+					</a>
+				</td>
+				<td align="center">
+					<a href="https://wakatime.com/share/@BannerBomb/36861c3a-13d7-4cc2-a2bb-5bfdf8f14d77.svg" rel="nofollow">
+						<img src="https://wakatime.com/share/@BannerBomb/36861c3a-13d7-4cc2-a2bb-5bfdf8f14d77.svg" alt="" data-canonical-src="https://wakatime.com/share/@BannerBomb/36861c3a-13d7-4cc2-a2bb-5bfdf8f14d77.svg" style="max-width:100%;">
+					</a>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</ins>
