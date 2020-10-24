@@ -39,10 +39,10 @@
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/java.png"></code>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/php.png"></code>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/lua.svg"></code>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/typescript.svg"></code>
+<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/python.png"></code>
 
 <h2>Knows very little:</h2>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/cpp.svg"></code>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/cs.png"></code>
-<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/python.png"></code>
-<code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/typescript.svg"></code>
 <code><img width="25px" src="https://github.com/BannerBomb/BannerBomb/blob/master/assets/kotlin.png"></code>
