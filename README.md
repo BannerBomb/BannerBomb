@@ -27,7 +27,7 @@
 
 <h2>Trophies</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BannerBomb&row=1&column=8" alt="Trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=LumaKernel&amp;row=1&amp;column=8" style="max-width:100%;">
+<img src="https://github-profile-trophy.vercel.app/?username=BannerBomb&row=5&column=8" alt="Trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=BannerBomb&amp;row=5&amp;column=8" style="max-width:100%;">
 
 <h1>Languages:</h1>
 
