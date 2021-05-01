@@ -2,10 +2,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=BannerBomb" alt="BannerBomb" title="BannerBomb Profile Views" />
 
-<img align="left" title="BannerBomb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BannerBomb&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
-<img align="left" title="BannerBomb's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=BannerBomb&theme=darcula" />
-<img align="left" title="BannerBomb's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=BannerBomb&theme=dracula" />
-<img align="left" title="BannerBomb's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=BannerBomb&langs_count=10&theme=dracula" />
+<div>
+  <img align="left" title="BannerBomb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BannerBomb&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
+  <img align="left" title="BannerBomb's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=BannerBomb&theme=darcula" />
+</div>
+<div>
+  <img align="left" title="BannerBomb's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=BannerBomb&langs_count=10&theme=dracula" />
+  <img align="left" title="BannerBomb's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=BannerBomb&theme=dracula" />
+</div>
 <br /><br /><br /><br /><br />
 
 <h2>Waka Stats</h2>
