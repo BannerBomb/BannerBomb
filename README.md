@@ -10,8 +10,9 @@
   <img align="left" title="BannerBomb's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=BannerBomb&langs_count=10&theme=dracula" />
   <img align="left" title="BannerBomb's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=BannerBomb&theme=dracula" />
 </div>
-<br /><br /><br /><br /><br />
 
+
+<div style="margin-right: 100%; margin-top: 500px;">
 <h2>Waka Stats</h2>
 <ins>
 	<table class="rich-diff-level-zero">
@@ -33,6 +34,7 @@
 		</tbody>
 	</table>
 </ins>
+</div>
 
 <h2>Trophies</h2>
 
